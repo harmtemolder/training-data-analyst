@@ -1,4 +1,8 @@
+# PyCharm
+.idea
 *.pyc
+
+# Mac
 .DS_Store
 
 courses/machine_learning/deepdive/03_tensorflow/.ipynb_checkpoints/c_dataset-checkpoint.ipynb
