@@ -1,3 +1,6 @@
+# Datasets
+*.csv
+
 # PyCharm
 .idea
 *.pyc
