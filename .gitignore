@@ -1,5 +1,5 @@
-# Datasets
 *.csv
+output
 
 # PyCharm
 .idea
